@@ -1,0 +1,10 @@
+Latihan melakukan clone dari github ke git
+
+  List lagu favorit yorushika
+  
+  -Ame to cappuchino
+  -Deep indigo
+  -Flower Merchant
+  -Spring Thief
+  -Thought Crime
+  -Say It
